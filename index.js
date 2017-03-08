@@ -1,7 +1,7 @@
 var loaderUtils = require("loader-utils")
 
 module.exports = function (source,options) {
-	console.log(this.loaderUtils.getOptions(this))
+	console.log(loaderUtils.getOptions(this))
     // loader query string
     
 	source = source.replace(/([0-9]*\.[0-9]+|[0-9]+)px/g, function (number) {

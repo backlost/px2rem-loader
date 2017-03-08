@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/backlost/px2rem-loader/issues"
   },
-  "homepage": "https://github.com/backlost/px2rem-loader#readme"
+  "homepage": "https://github.com/backlost/px2rem-loader#readme",
+  "dependencies": {
+    "loader-utils": "^1.0.3"
+  }
 }

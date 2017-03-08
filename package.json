@@ -1,0 +1,24 @@
+{
+  "name": "px2rem-loader",
+  "version": "1.0.0",
+  "description": "A loader to change px to rem in css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/backlost/px2rem-loader.git"
+  },
+  "keywords": [
+    "px",
+    "rem",
+    "css"
+  ],
+  "author": "Meng.locker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/backlost/px2rem-loader/issues"
+  },
+  "homepage": "https://github.com/backlost/px2rem-loader#readme"
+}
